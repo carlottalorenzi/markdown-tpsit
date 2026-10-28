@@ -30,5 +30,10 @@ All'interno di questo album sono presenti anche altri astisti come: Diplo, Futur
 - [x] spuntata
 - [ ] non spuntata
 
-![Immagine della copertina dell'album](./docs/immagini/Copertina_album.jpg)
+![Immagine della copertina dell'album](./docs/immagini/copertina_album.jpg)
 
+## Confronto tra le due rese
+
+Dopo aver fatto il commit da Visual Studio Code, gli elementi che rimangono praticamente uguali sono i testi (come titoli e modelli di testo), le tabelle e le spunte.
+Ma l'immagine non è visibile su GitHub, perchè questo sito web è case sensitive e invece Visual Studio Code e il computer non lo sono, quindi legge comunque il file e GitHub no.
+Questo accade perchè GitHub è basato su Linux e questo sistema operativo è molto attento alle maiuscole e minuscole.
