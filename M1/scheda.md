@@ -20,3 +20,15 @@ All'interno di questo album sono presenti anche altri astisti come: Diplo, Futur
 > *Cit.* Riconosce la forza dei ritornelli e l'orecchiabilità dei brani (come Hollywood o Abracadabra), ma nota una certa stasi tematica rispetto a Rockstar, incentrata sempre su soldi, lusso e fama.
 
 [Torna al README.md](../README.md)
+
+| Colonna 1 | Colonna 2 | Colonna 3|
+| --- | --- | --- |
+| 1 | 2 | 3 |
+| 1 | 2 | 3 |
+| 1 | 2 | 3 |
+
+- [x] spuntata
+- [ ] non spuntata
+
+![Immagine della copertina dell'album](./docs/immagini/Copertina_album.jpg)
+
