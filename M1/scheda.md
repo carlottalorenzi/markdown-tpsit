@@ -18,3 +18,5 @@ All'interno di questo album sono presenti anche altri astisti come: Diplo, Futur
 [Questa è una pagina che descrive il disco](https://it.wikipedia.org/wiki/Famoso_(album))
 
 > *Cit.* Riconosce la forza dei ritornelli e l'orecchiabilità dei brani (come Hollywood o Abracadabra), ma nota una certa stasi tematica rispetto a Rockstar, incentrata sempre su soldi, lusso e fama.
+
+[Torna al README.md](../README.md)

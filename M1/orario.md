@@ -12,3 +12,5 @@
 | 10 | - | - | inglese | - | informatica | - | 
 
 Questo orario è in vigore dal 07/09/2026
+
+[Torna al README.md](../README.md)
